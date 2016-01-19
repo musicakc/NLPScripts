@@ -11,3 +11,5 @@ def lexical_diversity(text):
 
 def percentage(count, total):
     return 100 * count / total
+
+lexical_diversity(text3)
